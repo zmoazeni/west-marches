@@ -2,10 +2,12 @@
 name: New character
 about: Introduce a character to the story
 title: 'Character: NAME OF CHARACTER'
-labels: 'new-character'
+labels: 'character,unapproved'
 assignees: ''
 
 ---
+
+_Please fill out your character as much as possible. Feel free to edit as much as you need. When you are all set, assign @zmoazeni to the issue._
 
 **Name:** e.g. Gemtin Rockfell
 
